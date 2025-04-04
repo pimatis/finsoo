@@ -56,7 +56,7 @@ Finsoo is a free, open-source platform that allows users to create custom sticke
    bun run dev
    ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute:
 
